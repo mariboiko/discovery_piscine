@@ -1,0 +1,32 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}
+
+.contenido {
+	width: 350px;
+	text-align: center;
+	
+}
+table {
+	text-align: center;
+	width: 350px;
+}
+
+.photo {
+	width: 350px;
+	height: 250px;
+}
+.black {
+	height: 50px;
+	background-color: black;
+}
+.text {
+	color: white;
+}

@@ -1,0 +1,36 @@
+body {
+	margin: 0;
+}
+p {
+	margin: 0;
+	color: rgb(38, 173, 65);
+	font-size: 24px;
+}
+.imajen1 {
+	background-image: url(https://www.eluniversal.com.mx/sites/default/files/2022/07/21/tecnologia-ubicar-perros.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.black {
+	background-color: black;
+	background-position: 0rem -7rem;
+	height: 50vh;
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+}
+.imajen2 {
+	background-image: url(https://stil.kurir.rs/data/images/2017/01/11/18/106085_bolestan-pas-thinkstock_share.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
